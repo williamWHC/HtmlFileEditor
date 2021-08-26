@@ -26,6 +26,7 @@ namespace EditorHtml
         {
             Console.SetCursorPosition(3, 3);
             Console.WriteLine("");
+
         }
 
         public static void TetoConsole(int teto)
